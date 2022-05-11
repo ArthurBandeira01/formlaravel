@@ -1,0 +1,8 @@
+label{margin-top: 2em;}
+input{margin-top: .5em;}
+
+@media screen and (max-width: 1150px){
+    #col-sex, #sex, #col-date{display: none;}
+}
+
+@media screen and (max-width:992px){table tbody tr td a.mg{margin-top: 1em;}}
